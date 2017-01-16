@@ -1,0 +1,14 @@
+{
+  "name": "gitlab-pages",
+  "version": "1.0.0",
+  "description": "Simple hack to make the gh-pages branch of a GitLab project available as web site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jasper Nalbach",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.75.0"
+  }
+}
